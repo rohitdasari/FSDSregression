@@ -1,0 +1,5 @@
+[ 2023-12-16 08:02:56,104 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-12-16 08:02:56,127 ] 96 werkzeug - INFO -  * Debugger PIN: 519-714-142
+[ 2023-12-16 08:03:36,423 ] 96 werkzeug - INFO - 127.0.0.1 - - [16/Dec/2023 08:03:36] "GET /predict HTTP/1.1" 200 -
+[ 2023-12-16 08:03:36,451 ] 96 werkzeug - INFO - 127.0.0.1 - - [16/Dec/2023 08:03:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-12-16 08:04:03,062 ] 96 werkzeug - INFO -  * Detected change in '/Users/rohitdasari/learning/ineuron/projects-ML/diamondprice/app.py', reloading
